@@ -42,7 +42,7 @@ Go to [Netlify's website](https://netlify.com) and create an account or log in.
 
 ### 2. Use the quick "Deploy to Netlify" button
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/eri/Website)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ElCapor/Website2)
 
 ### 3. Make changes on your Netlify configuration
 ![CleanShot Pro - 13-05-2022 at 00 39 21](https://user-images.githubusercontent.com/38740024/168179268-5fc54612-19f6-4834-9c5f-b630cb09bd40.png)
